@@ -1,0 +1,9 @@
+We are back!
+
+In an update to my previous post, this version filters the floor boundaries above 6 feet and splits them into smaller segments. It then checks for boundaries within a region (currently set to 30 cm), marks them as unsafe if 70% of the edge is exposed (prevents intersecting walls and elements from being misclassified as boundaries), and selects and highlights unsafe boundaries red.
+
+Upcoming versions will include:
+
+- Export options
+
+- Option for detecting floor gaps

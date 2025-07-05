@@ -1,0 +1,4 @@
+button_name: Clear Highlights
+tooltip: Remove all highlight overrides from floors
+script: script.py
+icon: Reset.png
